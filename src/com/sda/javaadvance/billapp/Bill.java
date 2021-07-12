@@ -1,4 +1,4 @@
-package com.sda.billapp;
+package com.sda.javaadvance.billapp;
 
 public class Bill {
     private String serialNumber;
@@ -20,7 +20,6 @@ public class Bill {
     public int getAmount() {
         return amount;
     }
-
     public void setAmount(int amount) {
         this.amount = amount;
     }

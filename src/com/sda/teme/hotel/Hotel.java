@@ -1,2 +1,11 @@
-package com.sda.teme.hotel;public class Hotel {
+package com.sda.teme.hotel;
+
+public class Hotel {
+
+    Rooms[] room;
+
+
+
+
+
 }

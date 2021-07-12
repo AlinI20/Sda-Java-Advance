@@ -1,4 +1,4 @@
-package com.sda.exercitii.ex5;
+package com.sda.javafundaments.exercitii.ex5;
 
 public class ContactInfo {
     String name;

@@ -1,4 +1,4 @@
-package com.sda.exercitii.ex4.engine;
+package com.sda.javafundaments.exercitii.ex4.engine;
 
 public class Helicopter extends Vehicle implements FlyInterface {
     private int nbOfengines;

@@ -1,4 +1,4 @@
-package com.sda.exercitii.ex2;
+package com.sda.javafundaments.exercitii.ex2;
 
 import java.util.ArrayList;
 import java.util.List;

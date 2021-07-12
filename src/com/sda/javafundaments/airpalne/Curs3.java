@@ -1,4 +1,4 @@
-package com.sda.airpalne;
+package com.sda.javafundaments.airpalne;
 
 public class Curs3 {
 

@@ -1,6 +1,4 @@
-package com.sda.blackJack;
-
-import com.sda.curs7.ex4.engine.Car;
+package com.sda.javafundaments.blackJack;
 
 import java.util.ArrayList;
 import java.util.List;

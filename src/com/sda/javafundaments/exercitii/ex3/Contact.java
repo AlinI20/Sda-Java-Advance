@@ -1,4 +1,4 @@
-package com.sda.exercitii.ex3;
+package com.sda.javafundaments.exercitii.ex3;
 
 public class Contact {
 private String name;

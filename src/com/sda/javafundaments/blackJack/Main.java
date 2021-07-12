@@ -1,10 +1,4 @@
-package com.sda.blackJack;
-
-import javax.swing.*;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
-import java.util.Scanner;
+package com.sda.javafundaments.blackJack;
 
 //Generare un pachet de carti(Deck.java)
 //o metoda de a amesteca pachetul

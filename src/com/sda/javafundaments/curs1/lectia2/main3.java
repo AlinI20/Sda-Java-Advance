@@ -1,4 +1,4 @@
-package com.sda.lectia2;
+package com.sda.javafundaments.curs1.lectia2;
 
 public class main3 {
  public static void main(String args[]) {

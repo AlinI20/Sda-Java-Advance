@@ -1,4 +1,4 @@
-package com.sda.calendar;
+package com.sda.javafundaments.calendar;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
@@ -7,7 +7,7 @@ import java.util.List;
 public class Calendar {
     List<Event> events = new ArrayList<>();
 
-    public void addEvent(Event event){
+    public void addEvent(Event event) {
         events.add(event);
     }
 
@@ -17,12 +17,14 @@ public class Calendar {
                 "events=" + events +
                 '}';
     }
-    public void getPastEvent(){
-        for (Event event:events){
-            if (event.date.isBefore(LocalDate.now())){
-                getPastEvent().add(event);
-                return; getPastEvent();
-            }
-        }
+
+    public void getPastEvent() {
+        // for (Event event:events){
+        // if (event.date.isBefore(LocalDate.now())){
+        // getPastEvent().add(events);
+        //return; getPastEvent();
+        // }
+        // }
+        // }
     }
 }

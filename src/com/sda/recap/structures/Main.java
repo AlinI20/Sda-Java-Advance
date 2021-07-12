@@ -1,8 +1,5 @@
 package com.sda.recap.structures;
 
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-
 public class Main {
 
     public static void mainWithFor(String[] args) {

@@ -1,4 +1,4 @@
-package com.sda.billapp;
+package com.sda.javaadvance.billapp;
 
 import java.util.ArrayList;
 import java.util.List;

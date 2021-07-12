@@ -1,4 +1,4 @@
-package com.sda.calendar;
+package com.sda.javafundaments.calendar;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

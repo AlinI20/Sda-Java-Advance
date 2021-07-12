@@ -1,4 +1,4 @@
-package com.sda.exercitii.ex4.Payment;
+package com.sda.javafundaments.exercitii.ex4.Payment;
 
 public class main {
 

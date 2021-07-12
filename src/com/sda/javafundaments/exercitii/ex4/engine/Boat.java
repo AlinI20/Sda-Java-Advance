@@ -1,6 +1,6 @@
-package com.sda.exercitii.ex4.engine;
+package com.sda.javafundaments.exercitii.ex4.engine;
 
-public class Boat extends Vehicle implements Float{
+public class Boat extends Vehicle implements RoadInterface  {
     private String engine;
 
 
@@ -15,9 +15,12 @@ public Boat(String engine,int speed, int capacity){
 
     }
 
+
+
+
+
     @Override
-    public void doFloat() {
-        System.out.println("boat is floating");
+    public void navigateOnRoad() {
 
     }
 }

@@ -1,4 +1,4 @@
-package com.sda.blackJack;
+package com.sda.javafundaments.blackJack;
 
 public class Card {
     private int value;

@@ -1,4 +1,4 @@
-package com.sda.Xand0;
+package com.sda.javafundaments.Xand0;
 
 import java.util.Scanner;
 
